@@ -5,7 +5,4 @@ if hungry.lower() == 'yes':
 	print('eat pizza')
 	print('eat samosa')
 else:
-	thirsty = input('are you thirsty')
-	if thirsty == 'yes':
-		print('drink water')
-		print('drink milk')
+	print('sleep')
