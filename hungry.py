@@ -5,6 +5,7 @@ if hungry.lower() == 'yes':
 	print('eat pizza')
 	print('eat samosa')
 	print('eat banana')
+	print('eat food')
 else:
 	thirsty = input('are you thirsty')
 	if thirsty == 'yes':
