@@ -1,5 +1,4 @@
 hungry = input('Are you hungry')
-
 if hungry.lower() == 'yes' and hungry == 'yo':
 	print('eat burger')
 	print('eat pizza')
