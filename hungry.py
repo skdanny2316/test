@@ -1,6 +1,6 @@
 hungry = input('Are you hungry')
 
-if hungry.lower() == 'yes' and hungry = 'why':
+if hungry.lower() == 'yes' and hungry = 'why yo':
 	print('eat burger')
 	print('eat pizza')
 	print('eat samosa')
